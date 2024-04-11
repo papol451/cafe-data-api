@@ -77,8 +77,8 @@ TEMPLATES = [
 WSGI_APPLICATION = 'drt.wsgi.application'
 
 
-# # Database
-# # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
+# Database
+# https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 # DATABASES = {
 #     'default': {
@@ -86,7 +86,6 @@ WSGI_APPLICATION = 'drt.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
-
 
 DATABASES = {
     'default': {
